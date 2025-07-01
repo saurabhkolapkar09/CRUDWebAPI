@@ -2,9 +2,9 @@
 
  A .NET Core Web API application demonstrating CRUD operations with Entity Framework, implementing security best practices and clean architecture patterns.
 ## Overview
-- This Web API application showcases modern .NET development practices including:
+This Web API application showcases modern .NET development practices including:
 
- CRUD Operations - Complete Create, Read, Update, Delete functionality using Entity Framework Core
+- CRUD Operations - Complete Create, Read, Update, Delete functionality using Entity Framework Core
 - Repository Pattern - Clean architecture implementation following OOP principles for maintainable code
 - JWT Authentication - Secure token-based authentication and authorization system
 - CORS Support - Cross-origin resource sharing configuration for client-server communication
